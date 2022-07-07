@@ -14,6 +14,7 @@ VANTA.CLOUDS2({
     backgroundAlpha: 0.0,
     texturePath: "./images/noise.png"
   })
-
+  const main = document.querySelector('main');
+main.style.opacity = 1;
 })
 
